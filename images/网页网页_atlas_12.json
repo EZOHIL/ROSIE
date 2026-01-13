@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"Image_13":
+{
+	"frame": {"x":0,"y":0,"w":916,"h":1086},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":916,"h":1086},
+	"sourceSize": {"w":916,"h":1086}
+},
+"Image_21":
+{
+	"frame": {"x":0,"y":1088,"w":1324,"h":746},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1324,"h":746},
+	"sourceSize": {"w":1324,"h":746}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.0.305",
+	"image": "网页网页_atlas_12.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
